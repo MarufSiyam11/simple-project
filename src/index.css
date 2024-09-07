@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.maxwidth {
+  max-width: 1450px;
+}
